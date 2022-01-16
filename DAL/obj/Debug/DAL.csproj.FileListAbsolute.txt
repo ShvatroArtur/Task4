@@ -1,0 +1,40 @@
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\DAL.dll.config
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\DAL.dll
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\DAL.pdb
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\DAL.dll.CodeAnalysisLog.xml
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\DAL.dll.lastcodeanalysissucceeded
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\EntityFramework.dll
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\EntityFramework.xml
+C:\Task ALL\Task4\Task4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Task ALL\Task4\Task4\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Task ALL\Task4\Task4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Task ALL\Task4\Task4\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Task ALL\Task4\Task4\DAL\obj\Debug\DAL.dll
+C:\Task ALL\Task4\Task4\DAL\obj\Debug\DAL.pdb
+c:\Task ALL\Task4\DAL\bin\Debug\DAL.dll
+c:\Task ALL\Task4\DAL\bin\Debug\DAL.pdb
+c:\Task ALL\Task4\DAL\bin\Debug\EntityDataBase.dll
+c:\Task ALL\Task4\DAL\bin\Debug\EntityFramework.dll
+c:\Task ALL\Task4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Task ALL\Task4\DAL\bin\Debug\EntityDataBase.pdb
+c:\Task ALL\Task4\DAL\bin\Debug\EntityFramework.xml
+c:\Task ALL\Task4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Task ALL\Task4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+c:\Task ALL\Task4\DAL\obj\Debug\DAL.csproj.CopyComplete
+c:\Task ALL\Task4\DAL\obj\Debug\DAL.dll
+c:\Task ALL\Task4\DAL\obj\Debug\DAL.pdb
+C:\Task ALL\Task4\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Шватро\tasks\Task4\DAL\bin\Debug\DAL.dll
+D:\Шватро\tasks\Task4\DAL\bin\Debug\DAL.pdb
+D:\Шватро\tasks\Task4\DAL\bin\Debug\EntityDataBase.dll
+D:\Шватро\tasks\Task4\DAL\bin\Debug\EntityFramework.dll
+D:\Шватро\tasks\Task4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Шватро\tasks\Task4\DAL\bin\Debug\EntityDataBase.pdb
+D:\Шватро\tasks\Task4\DAL\bin\Debug\EntityFramework.xml
+D:\Шватро\tasks\Task4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Шватро\tasks\Task4\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Шватро\tasks\Task4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Шватро\tasks\Task4\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Шватро\tasks\Task4\DAL\obj\Debug\DAL.dll
+D:\Шватро\tasks\Task4\DAL\obj\Debug\DAL.pdb

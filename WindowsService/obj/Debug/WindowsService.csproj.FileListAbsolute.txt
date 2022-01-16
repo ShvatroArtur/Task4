@@ -1,0 +1,49 @@
+c:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+c:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+c:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+c:\Task ALL\Task4\WindowsService1\bin\Debug\WindowsService1.exe.config
+c:\Task ALL\Task4\WindowsService1\bin\Debug\WindowsService1.exe
+c:\Task ALL\Task4\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\Task ALL\Task4\WindowsService1\bin\Debug\EntityFramework.dll
+c:\Task ALL\Task4\WindowsService1\bin\Debug\EntityFramework.SqlServer.dll
+c:\Task ALL\Task4\WindowsService1\bin\Debug\Task4.exe
+c:\Task ALL\Task4\WindowsService1\bin\Debug\DAL.dll
+c:\Task ALL\Task4\WindowsService1\bin\Debug\EntityDataBase.dll
+c:\Task ALL\Task4\WindowsService1\bin\Debug\Task4.pdb
+c:\Task ALL\Task4\WindowsService1\bin\Debug\EntityFramework.xml
+c:\Task ALL\Task4\WindowsService1\bin\Debug\EntityFramework.SqlServer.xml
+c:\Task ALL\Task4\WindowsService1\bin\Debug\DAL.pdb
+c:\Task ALL\Task4\WindowsService1\bin\Debug\EntityDataBase.pdb
+c:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService.csproj.CopyComplete
+c:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService1.exe
+c:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService.csproj.GenerateResource.cache
+c:\Task ALL\Task4\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\WindowsService1.exe
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\DAL.dll
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\EntityDataBase.dll
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\EntityFramework.dll
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\Task4.exe
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\DAL.pdb
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\EntityDataBase.pdb
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\Task4.pdb
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\EntityFramework.xml
+D:\Шватро\tasks\Task4\WindowsService1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService.csproj.GenerateResource.cache
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService.csproj.CopyComplete
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService1.exe
+D:\Шватро\tasks\Task4\WindowsService1\obj\Debug\WindowsService1.pdb
+D:\Repository\Task4\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+D:\Repository\Task4\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+D:\Repository\Task4\WindowsService\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\Repository\Task4\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+D:\Repository\Task4\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+D:\Repository\Task4\WindowsService\obj\Debug\WindowsService1.exe
+D:\Repository\Task4\WindowsService\obj\Debug\WindowsService1.pdb

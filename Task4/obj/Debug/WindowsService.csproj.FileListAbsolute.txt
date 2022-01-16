@@ -1,0 +1,22 @@
+D:\Шватро\tasks\Task4\Task4\Task4\Task4\obj\Debug\WindowsService.csprojAssemblyReference.cache
+D:\Шватро\tasks\Task4\Task4\Task4\Task4\obj\Debug\Task4.exe
+D:\Шватро\tasks\Task4\Task4\Task4\Task4\obj\Debug\Task4.pdb
+c:\Task ALL\Task4\Task4\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+c:\Task ALL\Task4\Task4\obj\Debug\Task4.exe
+c:\Task ALL\Task4\Task4\obj\Debug\Task4.pdb
+c:\Task ALL\Task4\Task4\bin\Debug\Task4.exe.config
+c:\Task ALL\Task4\Task4\bin\Debug\Task4.exe
+c:\Task ALL\Task4\Task4\bin\Debug\Task4.pdb
+c:\Task ALL\Task4\Task4\bin\Debug\EntityDataBase.dll
+c:\Task ALL\Task4\Task4\bin\Debug\EntityFramework.dll
+c:\Task ALL\Task4\Task4\bin\Debug\EntityFramework.SqlServer.dll
+c:\Task ALL\Task4\Task4\bin\Debug\EntityDataBase.pdb
+c:\Task ALL\Task4\Task4\bin\Debug\EntityDataBase.dll.config
+c:\Task ALL\Task4\Task4\bin\Debug\EntityFramework.xml
+c:\Task ALL\Task4\Task4\bin\Debug\EntityFramework.SqlServer.xml
+c:\Task ALL\Task4\Task4\obj\Debug\WindowsService.csproj.CopyComplete
+c:\Task ALL\Task4\Task4\bin\Debug\DAL.dll
+c:\Task ALL\Task4\Task4\bin\Debug\DAL.pdb
+c:\Task ALL\Task4\Task4\bin\Debug\DAL.dll.config
+C:\Task ALL\Task4\Task4\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Task ALL\Task4\Task4\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
